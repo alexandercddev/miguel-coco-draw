@@ -1,4 +1,4 @@
-# ![Miguel Coco](https://raw.githubusercontent.com/alexandercddev/miguel-coco-draw/master/src/assets/images/preview.jpg) 
+# ![Miguel Coco](https://github.com/alexandercddev/miguel-coco-draw/blob/css-drawing-class-2/src/assets/images/preview.jpg?raw=true) 
 # Mugiwara Flag
 <table>
 <tr>
